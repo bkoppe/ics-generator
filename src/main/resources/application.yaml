@@ -1,0 +1,64 @@
+teams:
+    -
+      altersklasse: mD
+      liga: BZL MD
+      staffelKurzBezeichnung: Bezirksliga
+      mannschaft: Augsburg 1871
+    -
+      altersklasse: mC
+      liga: ÜBL MC
+      staffelKurzBezeichnung: ÜBL Staffel SW 2
+      mannschaft: Augsburg 1871
+    -
+      altersklasse: mA
+      liga: ÜBL MA
+      staffelKurzBezeichnung: ÜBL Staffel SW
+      mannschaft: SG Augsburg-Gersthofen
+    -
+      altersklasse: frauen
+      liga: BZL F
+      staffelKurzBezeichnung: Bezirksliga F
+      mannschaft: Augsburg 1871
+    -
+      altersklasse: maenner2
+      liga: BZK M
+      staffelKurzBezeichnung: Bezirksklasse Staffel Ost
+      mannschaft: Augsburg 1871 II
+    -
+      altersklasse: maenner1
+      liga: BZOL M
+      staffelKurzBezeichnung: Bezirksoberliga M
+      mannschaft: Augsburg 1871
+      
+files:
+  "[gesamtspielplan.ics]":
+    -
+      mD
+    -
+      mC
+    -
+      mA
+    -
+      maenner1
+    -
+      maenner2
+    -
+      frauen
+  "[mD.ics]":
+    -
+      mD
+#  "[mC.ics]":
+#    -
+#      mC
+#  "[mA.ics]":
+#    -
+#      mA
+  "[maenner1.ics]":
+    -
+      maenner1
+  "[maenner2.ics]":
+    -
+      maenner2
+  "[frauen.ics]":
+    -
+      frauen
